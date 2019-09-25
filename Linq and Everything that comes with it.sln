@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capturing variables in a lambda expression", "Capturing variables in a lambda expression\Capturing variables in a lambda expression.csproj", "{8C0C7C25-206A-4CA2-ADC2-D88E1E1BEC0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instantiating a local variable multiple times", "Instantiating a local variable multiple times\Instantiating a local variable multiple times.csproj", "{575A49C8-4C09-4730-8CBB-D696164568FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C0C7C25-206A-4CA2-ADC2-D88E1E1BEC0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0C7C25-206A-4CA2-ADC2-D88E1E1BEC0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0C7C25-206A-4CA2-ADC2-D88E1E1BEC0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0C7C25-206A-4CA2-ADC2-D88E1E1BEC0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{575A49C8-4C09-4730-8CBB-D696164568FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575A49C8-4C09-4730-8CBB-D696164568FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575A49C8-4C09-4730-8CBB-D696164568FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575A49C8-4C09-4730-8CBB-D696164568FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC54855F-399F-479F-B9DF-8A6D2AE60C50}
+	EndGlobalSection
+EndGlobal
